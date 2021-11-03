@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 | <a href="https://t.me/XD_OFFLINE"><img src="https://telegra.ph/file/f4802576f31da7d7889a9.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[HACKER🎃](https://t.me/NOOBGUY_OP)**                                                                                |
-| <a href="https://t.me/NOOBGUY_OP"
+|        "https://t.me/NOOBGUY_OP"
 <br>
 
 
